@@ -1,0 +1,12 @@
+name: Lyme_Regis
+title: Lyme_Regis
+username: richardstockey
+account: richardstockey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12130202
+bundleId: 8703984
+url: https://richardstockey.shinyapps.io/Lyme_Regis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
